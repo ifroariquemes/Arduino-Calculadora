@@ -6,6 +6,9 @@
  * 
  * Natanael Simões <natanael.simoes@ifro.edu.br>
  * Professor de Informatica
+ * 
+ * Under Creative Commons Attribution 4.0 International Public License
+ * See at https://github.com/ifroariquemes/Arduino-Calculadora/blob/master/LICENSE
  */
 #include <LiquidCrystal.h>  
   
